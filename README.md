@@ -11,7 +11,7 @@ If you choose to use a toll-free number, you will need to verify this number. Th
 After deciding what type of number you want to use (10DLC or Toll-Free) and completing the registration process depending on the number type, we can begin using textit!
 
 ## Getting Started with Textit
-Now that we have gotten our number set up for texting, we can begin using Textit! Once you are on Textit's site, and you have made your message flow, click on your account’s name in the upper right corner. 
+Now that we have gotten our number set up for texting, we can begin using Textit! [Once you are on Textit's site](https://www.textit.com/org/signup/), and you have made your message flow, click on your account’s name in the upper right corner. 
 
 <img src="static/account.png" width="523.2" height="124.8">
 
